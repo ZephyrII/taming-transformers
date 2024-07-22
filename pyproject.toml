@@ -8,4 +8,4 @@ readme = "README.md"
 requires-python = ">=3.8"
 
 [tool.setuptools]
-packages = ["taming.data", "taming.data.conditional_builder", "taming.models", "taming.modules.diffusionmodules", "taming.modules.discriminator", "taming.modules.losses", "taming.modules.misc", "taming.modules.transformer", "taming.modules.vqvae"]
+packages = ["taming", "taming.data", "taming.data.conditional_builder", "taming.models", "taming.modules.diffusionmodules", "taming.modules.discriminator", "taming.modules.losses", "taming.modules.misc", "taming.modules.transformer", "taming.modules.vqvae"]
